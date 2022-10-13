@@ -1,0 +1,9 @@
+install.packages('rsconnect')
+rsconnect::setAccountInfo(name='david-aparicio-sanz',
+                          token='14B8B0343669EFAEA88D86B6AA1D4825',
+                          secret='1tkj7eChEJEdu11yDH5Gou/nhmZJbwlj132eYhVK')
+library(rsconnect)
+rsconnect::deployApp(account = 'david-aparicio-sanz', 
+                     appName = 'Dashboard-UniversiDATA-2022-Copy',
+                     appDir = 'C:/Users/TheDa/Desktop/Dashboard')
+

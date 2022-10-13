@@ -1,0 +1,28 @@
+divider:
+  "Tutorial":
+    order: 1
+  "Gráficos":
+    order: 10
+  "Resumen":
+    order: 150
+modules:
+  inicio:
+    label: "Inicio"
+    icon: "microchip"
+    order: 2
+  titulaciones:
+    icon: "fa-solid fa-graduation-cap"
+    label: "Titulaciones"
+    order: 12
+  lugares:
+    icon: "fa-solid fa-globe"
+    label: "Lugares"
+    order: 12
+  acceso:
+    icon: "fa-solid fa-file-lines"
+    label: "Acceso"
+    order: 14
+  notas:
+    icon: "fa-solid fa-square-poll-vertical"
+    label: "Notas"
+    order: 15
