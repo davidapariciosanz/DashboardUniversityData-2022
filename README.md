@@ -79,11 +79,11 @@ rstudioapi (≥ 0.14)
 ## Notes
 
 The app is uploaded on shinyapps.io and there are many links in case the first one runs out of time.       
-https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v1/
-https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v2/
-https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v3/
-https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v4/
-https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v5/
+https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v1/      
+https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v2/      
+https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v3/      
+https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v4/      
+https://david-aparicio-sanz.shinyapps.io/Dashboard-UniversiDATA-2022_v5/      
 
 If you can't run the app or you have a problem, contact me: 
 davidapariciosanz01@gmail.com
